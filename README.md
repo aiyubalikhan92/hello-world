@@ -1,3 +1,3 @@
 # maven-project
 
-AN Simple Maven Project , an mean nasib..
+AN Simple Maven Project , an mean nasib...
